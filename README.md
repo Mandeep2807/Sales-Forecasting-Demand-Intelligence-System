@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+**Streamlit Dashboard:** https://sales-forecasting-demand-intelligence-system-pzrq4j8n7nxvcbfsd.streamlit.app/
+
 <img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/15e83840-31a3-4cc9-aa06-89a241590dc4" />
 
 <img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/90398e72-c9be-4ec6-848e-732a89448b69" />
