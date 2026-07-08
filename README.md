@@ -1,3 +1,11 @@
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/15e83840-31a3-4cc9-aa06-89a241590dc4" />
+
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/90398e72-c9be-4ec6-848e-732a89448b69" />
+
+<img width="1911" height="943" alt="image" src="https://github.com/user-attachments/assets/078c005a-5273-41fd-9d32-8990c839f679" />
+
+<img width="1907" height="960" alt="image" src="https://github.com/user-attachments/assets/4342792c-e61b-4cd8-ada9-95ed803cfa1d" />
+
 # 📈 Sales Forecasting & Demand Intelligence Dashboard
 
 ## Overview
